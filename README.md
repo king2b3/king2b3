@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋 
 
-Hello there, my name is Bayley and I am a graduate student at the University of Cincinnati part of the [MIND Lab](https://eecs.ceas.uc.edu/MIND) where I am researching genetic programming.
+My name is Bayley and I am a graduate student at the University of Cincinnati part of the [MIND Lab](https://eecs.ceas.uc.edu/MIND) where I am researching genetic programming.
 
 - 📚 [My ORCID ID](https://orcid.org/0000-0003-2483-9954)
 - 👔 [My Linkedin Profile](https://www.linkedin.com/in/bayley-king-725627b3/)
